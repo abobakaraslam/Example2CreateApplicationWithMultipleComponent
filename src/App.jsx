@@ -13,8 +13,8 @@ function App() {
       <Header />
       <Navbar />
       <Home />
-      <Login />
       <Register />
+      <Login />
       <Diary />
     </div>
   );
