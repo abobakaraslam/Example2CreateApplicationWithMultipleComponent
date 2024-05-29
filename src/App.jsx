@@ -6,6 +6,7 @@ import Home from "./component/Home";
 import Login from "./component/Login";
 import Register from "./component/Register";
 import Diary from "./component/Diary";
+import Footer from "./component/Footer";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
       <Register />
       <Login />
       <Diary />
+      <Footer />
     </div>
   );
 }
